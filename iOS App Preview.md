@@ -84,16 +84,23 @@
 - [ ] Offer/product previews: Buy Now / CTA → /checkout/...
 	Package, course, session, digital product, membership, and in-app package preview. Apple’s path was Offers → Packages; Preview still has a real checkout button.
 	 
-	 Status:
+	Status: Done ✅\
 
-- [ ] Purchases footer: “Additional purchases are only available on your coach’s web platform.”
-	 
-	 Status:
+	***Sessions preview***\
+	Web view &darr;
+	<img width="2880" height="1800" alt="session-preview-web" src="https://github.com/user-attachments/assets/486cb682-96d2-4a17-9509-bbd038ce7485" />
 
-- [ ] Coach’s Offerings (client store) footer: “browsing and purchasing are only available on the web platform…”
-	Store grid is hidden, but this copy still talks about buying outside the app.
-	 
-	 Status:
+	iOS view &darr;
+	<img width="2880" height="1800" alt="session-preview-ios" src="https://github.com/user-attachments/assets/7b7946a7-12ee-4407-bccd-76075256176e" />
+	
+	***Offer preview***\
+	Web view &darr;
+	<img width="2880" height="1800" alt="offer-preview-web" src="https://github.com/user-attachments/assets/8484f045-6c56-4027-85ac-aec92264bcc1" />
+
+	iOS view &darr;
+	<img width="2880" height="1800" alt="offer-preview-ios" src="https://github.com/user-attachments/assets/4662ae0e-dc12-439f-bb2f-c68c776418cd" />\
+	Package, course, digital product, and membership previews use the same price card + button pattern.
+
 
 - [ ] Purchases empty states: Browse Store
 	Still shown on iOS and points at the store.
