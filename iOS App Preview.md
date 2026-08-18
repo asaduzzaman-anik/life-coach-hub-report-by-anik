@@ -1,8 +1,6 @@
 # From the review doc
-----------------------------
 
 # Client
-----------------------------
 
 - [ ] hide the 'Buy more sessions' button from this route /client/calendar
 	 
@@ -22,8 +20,6 @@
 	 Optional: audit leftover purchase UI so they don’t reject again.
 
 # Coach
-----------------------------
-
 - [ ] Move Pause and Close account to Account settings (main) page:
  	Status: already done (/coach/settings). No need to change anything
 
@@ -40,7 +36,6 @@
 
 
 # Leftover purchase UI that can still get an App Store rejection, grouped by risk.
----------------
 
 - [ ] Purchases → session credits: Purchase (web only)
 	 Disabled but still visible. Same pattern as the rejected Buy More button.
@@ -57,18 +52,34 @@
 - [ ] Book appointment: Pay now
 	 Shows when booking is blocked for unpaid sessions. Goes to checkout.
 	 
-	 Status:
+	 Status: Done ✅\
+	 Webview &darr;
+	 
+	 iOS View &darr;
+	 
 
 - [ ] Calendar / session list: Pay now
 	PaymentStatusBadge opens checkout_url in a new tab.
 	http://app.test/client/calendar
 	 
-	 Status:
+	 Status: Done ✅\
+	 Webview &darr;
+	 <img width="2800" height="1800" alt="pay-now-web" src="https://github.com/user-attachments/assets/826df0ed-7dda-40b9-bd56-4bf1c3bbb1c6" />
+
+	 iOS view &darr;
+	 <img width="2800" height="1800" alt="pay-now-ios" src="https://github.com/user-attachments/assets/bb6bc587-1637-4581-8ba4-dc29a63ecfad" />
+
 
 - [ ] Purchases → products: Re Subscribe
 	Memberships with a checkout_url still link to checkout on iOS.
 	 
-	 Status:
+	 Status: Done ✅\
+	 Webview &darr;
+	 <img width="2880" height="1800" alt="resubscribe-web" src="https://github.com/user-attachments/assets/2b11a5e0-8173-4286-920b-09eb0f1c9816" />
+
+	 iOS view &darr;
+	 <img width="2880" height="1800" alt="resubscribe-ios" src="https://github.com/user-attachments/assets/ca552d5f-3d17-436b-aba2-106d5dde8635" />
+
 
 - [ ] Offer/product previews: Buy Now / CTA → /checkout/...
 	Package, course, session, digital product, membership, and in-app package preview. Apple’s path was Offers → Packages; Preview still has a real checkout button.
