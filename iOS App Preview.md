@@ -85,7 +85,7 @@
 	 Shows when booking is blocked for unpaid sessions. Goes to checkout.\
 	 
 	 Status: Done ✅\
-	 Webview &darr;
+	 Web view ⬇️
 	 <img width="2800" height="1800" alt="pay-now-web" src="https://github.com/user-attachments/assets/01dfbd4b-6335-4758-8d03-ab0b95b08f18" />
 
 	 iOS View &darr;
@@ -97,7 +97,7 @@
 	Route: /client/calendar
 	 
 	 Status: Done ✅\
-	 Webview &darr;
+	 Web view ⬇️
 	 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/3b5f1da1-5e2c-4bb8-b6cb-78499eff4a67" />
 
 	 iOS view &darr;
@@ -108,7 +108,7 @@
 	Memberships with a checkout_url still link to checkout on iOS.\
 	 
 	 Status: Done ✅\
-	 Webview &darr;
+	 Web view ⬇️
 	 <img width="2880" height="1800" alt="resubscribe-web" src="https://github.com/user-attachments/assets/2b11a5e0-8173-4286-920b-09eb0f1c9816" />
 
 	 iOS view &darr;
@@ -121,14 +121,14 @@
 	Status: Done ✅\
 
 	***Sessions preview***\
-	Web view &darr;
+	Web view ⬇️
 	<img width="2880" height="1800" alt="session-preview-web" src="https://github.com/user-attachments/assets/486cb682-96d2-4a17-9509-bbd038ce7485" />
 
 	iOS view &darr;
 	<img width="2880" height="1800" alt="session-preview-ios" src="https://github.com/user-attachments/assets/7b7946a7-12ee-4407-bccd-76075256176e" />
 	
 	***Offer preview***\
-	Web view &darr;
+	Web view ⬇️
 	<img width="2880" height="1800" alt="offer-preview-web" src="https://github.com/user-attachments/assets/8484f045-6c56-4027-85ac-aec92264bcc1" />
 
 	iOS view &darr;
@@ -139,7 +139,25 @@
 - [ ] Purchases empty states: Browse Store\
 	Still shown on iOS and points at the store.\
 	 
-	 Status:
+	 Status: Done ✅\
+	 Browse Store is hidden on iOS in all three purchases empty states. Web is unchanged.\
+	 Web view ⬇️
+	 <img width="382" height="822" alt="image" src="https://github.com/user-attachments/assets/a8070e97-d6ae-4f53-a6a2-34cc85a31b6a" />
+	 iOS view ⬇️
+	 <img width="380" height="814" alt="image" src="https://github.com/user-attachments/assets/1d1e2102-da36-4c0d-afce-33aa7d44d7f0" />
+	 Web view ⬇️
+	 <img width="378" height="816" alt="image" src="https://github.com/user-attachments/assets/a5db4f23-585b-4110-b4b9-6fe1735d84e8" />
+	 iOS view ⬇️
+	 <img width="381" height="821" alt="image" src="https://github.com/user-attachments/assets/6e5ced37-9b9b-4016-9448-35064e253c3d" />
+	 Web view ⬇️
+	 <img width="381" height="816" alt="image" src="https://github.com/user-attachments/assets/14e6043a-b37f-4aaa-953a-94361cc7840c" />
+	 iOS view ⬇️
+	 <img width="378" height="820" alt="image" src="https://github.com/user-attachments/assets/761fc49d-0031-4fb0-9204-4b2d7d3d6875" />
+
+
+
+
+
 
 ## Coach side commerce
 
