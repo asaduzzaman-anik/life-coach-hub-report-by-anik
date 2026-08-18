@@ -137,22 +137,16 @@
 
 
 - [ ] Purchases empty states: Browse Store\
-	Still shown on iOS and points at the store.\
+	Still shown on iOS and points at the store.
 	 
 	 Status: Done ✅\
-	 Browse Store is hidden on iOS in all three purchases empty states. Web is unchanged.\
-	 Web view ⬇️
-	 <img width="382" height="822" alt="image" src="https://github.com/user-attachments/assets/a8070e97-d6ae-4f53-a6a2-34cc85a31b6a" />
-	 iOS view ⬇️
-	 <img width="380" height="814" alt="image" src="https://github.com/user-attachments/assets/1d1e2102-da36-4c0d-afce-33aa7d44d7f0" />
-	 Web view ⬇️
-	 <img width="378" height="816" alt="image" src="https://github.com/user-attachments/assets/a5db4f23-585b-4110-b4b9-6fe1735d84e8" />
-	 iOS view ⬇️
-	 <img width="381" height="821" alt="image" src="https://github.com/user-attachments/assets/6e5ced37-9b9b-4016-9448-35064e253c3d" />
-	 Web view ⬇️
-	 <img width="381" height="816" alt="image" src="https://github.com/user-attachments/assets/14e6043a-b37f-4aaa-953a-94361cc7840c" />
-	 iOS view ⬇️
-	 <img width="378" height="820" alt="image" src="https://github.com/user-attachments/assets/761fc49d-0031-4fb0-9204-4b2d7d3d6875" />
+	 Browse Store is hidden on iOS in all three purchases empty states. Web is unchanged.
+
+	| Web View | iOS View |
+	| --- | --- |
+	| <img width="382" height="822" alt="image" src="https://github.com/user-attachments/assets/a8070e97-d6ae-4f53-a6a2-34cc85a31b6a" /> | <img width="380" height="814" alt="image" src="https://github.com/user-attachments/assets/1d1e2102-da36-4c0d-afce-33aa7d44d7f0" /> |
+	 | <img width="378" height="816" alt="image" src="https://github.com/user-attachments/assets/a5db4f23-585b-4110-b4b9-6fe1735d84e8" /> | <img width="381" height="821" alt="image" src="https://github.com/user-attachments/assets/6e5ced37-9b9b-4016-9448-35064e253c3d" /> |
+	 | <img width="381" height="816" alt="image" src="https://github.com/user-attachments/assets/14e6043a-b37f-4aaa-953a-94361cc7840c" /> | <img width="378" height="820" alt="image" src="https://github.com/user-attachments/assets/761fc49d-0031-4fb0-9204-4b2d7d3d6875" /> |
 
 
 
