@@ -4,15 +4,34 @@
 
 - [ ] hide the 'Buy more sessions' button from this route /client/calendar
 	 
-	 Status: Done ✅
+	 Status: Done ✅\
+	 Web view ⬇️
+	 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/a9c71c67-f1a8-46b5-91c4-912b156a86b6" />
 
-	 Additionally i have hidden the similar button from this routes as well
-		- /client/sessions/remaining
-		- /purchases
+	 iOS view ⬇️
+ 	 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/3b0d51c7-90e7-49a0-97be-47e520f655e7" />
+
+
+
+	 Additionally i have hidden the similar button from this routes as well\
+		- /client/sessions/remaining\
+		  	Web view ⬇️
+			<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/788ba84b-d293-4ad8-829d-dc4cc2b011ca" />
+			iOS view ⬇️
+			<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/89f1612e-f97f-4a71-b202-2f12cb0c2508" />
+		- /purchases\
+			Web view ⬇️
+			<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/2ae87fdd-decf-4c61-9212-a846546c3b32" />
+			iOS view ⬇️
+			<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/90c1e4f0-3d4a-41b2-a03e-46cc9d22faf0" />
+
+
+
 
 - [ ] Move Pause and Close account to Account settings (main) page:
  	 
 	 Status: already done (/client/settings/index). No need to change anything
+		<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/82d2dd47-b54a-463a-8a77-b13020441b52" />
 
 
 - [ ] Guideline 3.1.1 (IAP) — reply, not StoreKit
@@ -22,9 +41,12 @@
 # Coach
 - [ ] Move Pause and Close account to Account settings (main) page:
  	Status: already done (/coach/settings). No need to change anything
+		<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/c02d4ceb-2983-46a2-953c-48f6220a572e" />
 
 - [ ] On the plans page, add a box at the bottom with buttons to Pause Account and Close account. These will redirect to the main settings page so people won’t get confused where it went.
 	 Status: already done on the website. for iOS we have hidden the plans page. so, nothing to do.
+		<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/c906948f-f77f-48c7-b307-5b7382917118" />
+
 
 - [ ] Fix Take Photo crash (iPad) (/coach/coaching-packages)
 	 Coach flow: Offers → Packages → Create package → Select file → Take Photo → crash on iPad Air / iPadOS 18.6.2.\
