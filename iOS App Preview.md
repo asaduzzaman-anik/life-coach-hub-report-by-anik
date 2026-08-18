@@ -10,17 +10,18 @@
 	| Web | <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/a9c71c67-f1a8-46b5-91c4-912b156a86b6" /> |
 	| iOS | <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/3b0d51c7-90e7-49a0-97be-47e520f655e7" /> |
 	 
-	 Additionally i have hidden the similar button from this routes as well
-		* /client/sessions/remaining\
-		  	| View | Screenshot |
-			| ---- | --- |
-			| Web | <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/788ba84b-d293-4ad8-829d-dc4cc2b011ca" /> |
-			| iOS | <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/89f1612e-f97f-4a71-b202-2f12cb0c2508" /> |
-		* /purchases\
-			Web view ⬇️
-			<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/2ae87fdd-decf-4c61-9212-a846546c3b32" />
-			iOS view ⬇️
-			<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/90c1e4f0-3d4a-41b2-a03e-46cc9d22faf0" />
+	* Additionally i have hidden the similar button from this routes as well* 
+		- /client/sessions/remaining
+		| View | Screenshot |
+		| ---- | --- |
+		| Web | <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/788ba84b-d293-4ad8-829d-dc4cc2b011ca" /> |
+		| iOS | <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/89f1612e-f97f-4a71-b202-2f12cb0c2508" /> |
+
+	- /purchases
+		| View | Screenshot |
+		| ---- | --- |
+		| Web | <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/2ae87fdd-decf-4c61-9212-a846546c3b32" /> |
+		| iOS | <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/90c1e4f0-3d4a-41b2-a03e-46cc9d22faf0" /> |
 
 
 
