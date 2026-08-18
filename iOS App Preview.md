@@ -59,41 +59,53 @@
 
 # Leftover purchase UI that can still get an App Store rejection, grouped by risk.
 
-- [ ] Purchases → session credits: Purchase (web only)
-	 Disabled but still visible. Same pattern as the rejected Buy More button.
+- [ ] Purchases → session credits: Purchase (web only)\
+	 Disabled but still visible. Same pattern as the rejected Buy More button.\
 	 Route: /purchases
 	 
-	 Status: Done ✅
+	 Status: Done ✅\
+		Web view ⬇️
+		<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/b310a5f8-aafc-4071-b585-1afedf17841a" />
+		iOS view ⬇️
+		<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/8424d753-7389-40be-814a-c9bddbbf5d14" />
 
-- [ ] Book appointment: Purchase More Sessions
-	 Shows when that session type has 0 credits. No iOS hide.
+
+- [ ] Book appointment: Purchase More Sessions\
+	 Shows when that session type has 0 credits. No iOS hide.\
 	 Route: /client/sessions/create
 	 
-	 Status:
+	 Status: Done ✅\
+		Web view ⬇️
+		<img width="2800" height="1800" alt="purchase-more-web" src="https://github.com/user-attachments/assets/d25fb2ef-200d-40cd-8c11-29eef8a9cad5" />
+		iOS view ⬇️
+		<img width="2800" height="1800" alt="purchase-more-ios" src="https://github.com/user-attachments/assets/c5b27167-3d4c-4c62-afe6-27e7f6911cf8" />
 
-- [ ] Book appointment: Pay now
-	 Shows when booking is blocked for unpaid sessions. Goes to checkout.
+
+- [ ] Book appointment: Pay now\
+	 Shows when booking is blocked for unpaid sessions. Goes to checkout.\
 	 
 	 Status: Done ✅\
 	 Webview &darr;
-	 
+	 <img width="2800" height="1800" alt="pay-now-web" src="https://github.com/user-attachments/assets/01dfbd4b-6335-4758-8d03-ab0b95b08f18" />
+
 	 iOS View &darr;
-	 
+	 <img width="2800" height="1800" alt="pay-now-ios" src="https://github.com/user-attachments/assets/85118f57-05fe-4820-9b92-a7a238722721" />
 
-- [ ] Calendar / session list: Pay now
-	PaymentStatusBadge opens checkout_url in a new tab.
-	http://app.test/client/calendar
+
+- [ ] Calendar / session list: Pay now\
+	PaymentStatusBadge opens checkout_url in a new tab.\
+	Route: /client/calendar
 	 
 	 Status: Done ✅\
 	 Webview &darr;
-	 <img width="2800" height="1800" alt="pay-now-web" src="https://github.com/user-attachments/assets/826df0ed-7dda-40b9-bd56-4bf1c3bbb1c6" />
+	 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/3b5f1da1-5e2c-4bb8-b6cb-78499eff4a67" />
 
 	 iOS view &darr;
-	 <img width="2800" height="1800" alt="pay-now-ios" src="https://github.com/user-attachments/assets/bb6bc587-1637-4581-8ba4-dc29a63ecfad" />
+	 <img width="1908" height="1029" alt="image" src="https://github.com/user-attachments/assets/65281a31-0455-42ae-8e60-a4968b0fd639" />
 
 
-- [ ] Purchases → products: Re Subscribe
-	Memberships with a checkout_url still link to checkout on iOS.
+- [ ] Purchases → products: Re Subscribe\
+	Memberships with a checkout_url still link to checkout on iOS.\
 	 
 	 Status: Done ✅\
 	 Webview &darr;
@@ -103,7 +115,7 @@
 	 <img width="2880" height="1800" alt="resubscribe-ios" src="https://github.com/user-attachments/assets/ca552d5f-3d17-436b-aba2-106d5dde8635" />
 
 
-- [ ] Offer/product previews: Buy Now / CTA → /checkout/...
+- [ ] Offer/product previews: Buy Now / CTA → /checkout/...\
 	Package, course, session, digital product, membership, and in-app package preview. Apple’s path was Offers → Packages; Preview still has a real checkout button.
 	 
 	Status: Done ✅\
@@ -124,8 +136,8 @@
 	Package, course, digital product, and membership previews use the same price card + button pattern.
 
 
-- [ ] Purchases empty states: Browse Store
-	Still shown on iOS and points at the store.
+- [ ] Purchases empty states: Browse Store\
+	Still shown on iOS and points at the store.\
 	 
 	 Status:
 
@@ -140,8 +152,3 @@
 	Public store URL plus “Clients will complete purchases outside the app.”
 	 
 	 Status:
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
