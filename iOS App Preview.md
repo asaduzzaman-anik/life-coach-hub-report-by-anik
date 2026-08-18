@@ -3,177 +3,332 @@
 # Client
 
 - [ ] hide the 'Buy more sessions' button from this route /client/calendar
-	 
-	 Status: Done ✅\
-	 | View | Screenshot |
-	| --- | --- |
-	| Web | <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/a9c71c67-f1a8-46b5-91c4-912b156a86b6" /> |
-	| iOS | <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/3b0d51c7-90e7-49a0-97be-47e520f655e7" /> |
-	 
-	* Additionally i have hidden the similar button from this routes as well* 
-		- /client/sessions/remaining
-		| View | Screenshot |
-		| ---- | --- |
-		| Web | <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/788ba84b-d293-4ad8-829d-dc4cc2b011ca" /> |
-		| iOS | <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/89f1612e-f97f-4a71-b202-2f12cb0c2508" /> |
+
+	Status: Done ✅
+
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – hide Buy more sessions on /client/calendar" src="https://github.com/user-attachments/assets/a9c71c67-f1a8-46b5-91c4-912b156a86b6" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – hide Buy more sessions on /client/calendar" src="https://github.com/user-attachments/assets/3b0d51c7-90e7-49a0-97be-47e520f655e7" /></td>
+	</tr>
+	</table>
+
+	Additionally I have hidden the similar button from these routes as well:
+
+	- /client/sessions/remaining
+
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – /client/sessions/remaining" src="https://github.com/user-attachments/assets/788ba84b-d293-4ad8-829d-dc4cc2b011ca" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – /client/sessions/remaining" src="https://github.com/user-attachments/assets/89f1612e-f97f-4a71-b202-2f12cb0c2508" /></td>
+	</tr>
+	</table>
 
 	- /purchases
-		| View | Screenshot |
-		| ---- | --- |
-		| Web | <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/2ae87fdd-decf-4c61-9212-a846546c3b32" /> |
-		| iOS | <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/90c1e4f0-3d4a-41b2-a03e-46cc9d22faf0" /> |
 
-
-
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – /purchases" src="https://github.com/user-attachments/assets/2ae87fdd-decf-4c61-9212-a846546c3b32" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – /purchases" src="https://github.com/user-attachments/assets/90c1e4f0-3d17-41b2-a03e-46cc9d22faf0" /></td>
+	</tr>
+	</table>
 
 - [ ] Move Pause and Close account to Account settings (main) page:
- 	 
-	 Status: already done (/client/settings/index). No need to change anything
-		<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/82d2dd47-b54a-463a-8a77-b13020441b52" />
 
+	Status: already done (/client/settings/index). No need to change anything
+
+	<table>
+	<tr>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td><img width="700" alt="Client account settings" src="https://github.com/user-attachments/assets/82d2dd47-b54a-463a-8a77-b13020441b52" /></td>
+	</tr>
+	</table>
 
 - [ ] Guideline 3.1.1 (IAP) — reply, not StoreKit
-	 Apple flagged digital products bought outside IAP. The review doc already has the reply: admin-only app, no checkout in iOS, commerce is on the web. 
-	 Optional: audit leftover purchase UI so they don’t reject again.
+	Apple flagged digital products bought outside IAP. The review doc already has the reply: admin-only app, no checkout in iOS, commerce is on the web.
+	Optional: audit leftover purchase UI so they don’t reject again.
 
 # Coach
+
 - [ ] Move Pause and Close account to Account settings (main) page:
- 	Status: already done (/coach/settings). No need to change anything
-		<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/c02d4ceb-2983-46a2-953c-48f6220a572e" />
+
+	Status: already done (/coach/settings). No need to change anything
+
+	<table>
+	<tr>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td><img width="700" alt="Coach account settings" src="https://github.com/user-attachments/assets/c02d4ceb-2983-46a2-953c-48f6220a572e" /></td>
+	</tr>
+	</table>
 
 - [ ] On the plans page, add a box at the bottom with buttons to Pause Account and Close account. These will redirect to the main settings page so people won’t get confused where it went.
-	 Status: already done on the website. for iOS we have hidden the plans page. so, nothing to do.
-		<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/c906948f-f77f-48c7-b307-5b7382917118" />
 
+	Status: already done on the website. For iOS we have hidden the plans page. So, nothing to do.
+
+	<table>
+	<tr>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td><img width="700" alt="Plans page hidden on iOS" src="https://github.com/user-attachments/assets/c906948f-f77f-48c7-b307-5b7382917118" /></td>
+	</tr>
+	</table>
 
 - [ ] Fix Take Photo crash (iPad) (/coach/coaching-packages)
-	 Coach flow: Offers → Packages → Create package → Select file → Take Photo → crash on iPad Air / iPadOS 18.6.2.\
-	 DropzoneField already tries to block the camera on iOS; Apple still hit Take Photo.
+	Coach flow: Offers → Packages → Create package → Select file → Take Photo → crash on iPad Air / iPadOS 18.6.2.
+	DropzoneField already tries to block the camera on iOS; Apple still hit Take Photo.
 
-	 Status: Done ✅
-	 <mark> Note: Need to verify this from an iPad </mark>
-
-
+	Status: Done ✅
+	<mark> Note: Need to verify this from an iPad </mark>
 
 # Leftover purchase UI that can still get an App Store rejection, grouped by risk.
 
-- [ ] Purchases → session credits: Purchase (web only)\
-	 Disabled but still visible. Same pattern as the rejected Buy More button.\
-	 Route: /purchases
-	 
-	 Status: Done ✅\
-		Web view ⬇️
-		<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/b310a5f8-aafc-4071-b585-1afedf17841a" />
-		iOS view ⬇️
-		<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/8424d753-7389-40be-814a-c9bddbbf5d14" />
+- [ ] Purchases → session credits: Purchase (web only)
+	Disabled but still visible. Same pattern as the rejected Buy More button.
+	Route: /purchases
 
+	Status: Done ✅
 
-- [ ] Book appointment: Purchase More Sessions\
-	 Shows when that session type has 0 credits. No iOS hide.\
-	 Route: /client/sessions/create
-	 
-	 Status: Done ✅\
-		Web view ⬇️
-		<img width="2800" height="1800" alt="purchase-more-web" src="https://github.com/user-attachments/assets/d25fb2ef-200d-40cd-8c11-29eef8a9cad5" />
-		iOS view ⬇️
-		<img width="2800" height="1800" alt="purchase-more-ios" src="https://github.com/user-attachments/assets/c5b27167-3d4c-4c62-afe6-27e7f6911cf8" />
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – purchases session credits" src="https://github.com/user-attachments/assets/b310a5f8-aafc-4071-b585-1afedf17841a" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – purchases session credits" src="https://github.com/user-attachments/assets/8424d753-7389-40be-814a-c9bddbbf5d14" /></td>
+	</tr>
+	</table>
 
+- [ ] Book appointment: Purchase More Sessions
+	Shows when that session type has 0 credits. No iOS hide.
+	Route: /client/sessions/create
 
-- [ ] Book appointment: Pay now\
-	 Shows when booking is blocked for unpaid sessions. Goes to checkout.\
-	 
-	 Status: Done ✅\
-	 Web view ⬇️
-	 <img width="2800" height="1800" alt="pay-now-web" src="https://github.com/user-attachments/assets/01dfbd4b-6335-4758-8d03-ab0b95b08f18" />
+	Status: Done ✅
 
-	 iOS View &darr;
-	 <img width="2800" height="1800" alt="pay-now-ios" src="https://github.com/user-attachments/assets/85118f57-05fe-4820-9b92-a7a238722721" />
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – purchase more sessions" src="https://github.com/user-attachments/assets/d25fb2ef-200d-40cd-8c11-29eef8a9cad5" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – purchase more sessions" src="https://github.com/user-attachments/assets/c5b27167-3d4c-4c62-afe6-27e7f6911cf8" /></td>
+	</tr>
+	</table>
 
+- [ ] Book appointment: Pay now
+	Shows when booking is blocked for unpaid sessions. Goes to checkout.
 
-- [ ] Calendar / session list: Pay now\
-	PaymentStatusBadge opens checkout_url in a new tab.\
+	Status: Done ✅
+
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – pay now" src="https://github.com/user-attachments/assets/01dfbd4b-6335-4758-8d03-ab0b95b08f18" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – pay now" src="https://github.com/user-attachments/assets/85118f57-05fe-4820-9b92-a7a238722721" /></td>
+	</tr>
+	</table>
+
+- [ ] Calendar / session list: Pay now
+	PaymentStatusBadge opens checkout_url in a new tab.
 	Route: /client/calendar
-	 
-	 Status: Done ✅\
-	 Web view ⬇️
-	 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/3b5f1da1-5e2c-4bb8-b6cb-78499eff4a67" />
 
-	 iOS view &darr;
-	 <img width="1908" height="1029" alt="image" src="https://github.com/user-attachments/assets/65281a31-0455-42ae-8e60-a4968b0fd639" />
+	Status: Done ✅
 
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – calendar pay now" src="https://github.com/user-attachments/assets/3b5f1da1-5e2c-4bb8-b6cb-78499eff4a67" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – calendar pay now" src="https://github.com/user-attachments/assets/65281a31-0455-42ae-8e60-a4968b0fd639" /></td>
+	</tr>
+	</table>
 
-- [ ] Purchases → products: Re Subscribe\
-	Memberships with a checkout_url still link to checkout on iOS.\
-	 
-	 Status: Done ✅\
-	 Web view ⬇️
-	 <img width="2880" height="1800" alt="resubscribe-web" src="https://github.com/user-attachments/assets/2b11a5e0-8173-4286-920b-09eb0f1c9816" />
+- [ ] Purchases → products: Re Subscribe
+	Memberships with a checkout_url still link to checkout on iOS.
 
-	 iOS view &darr;
-	 <img width="2880" height="1800" alt="resubscribe-ios" src="https://github.com/user-attachments/assets/ca552d5f-3d17-436b-aba2-106d5dde8635" />
+	Status: Done ✅
 
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – re subscribe" src="https://github.com/user-attachments/assets/2b11a5e0-8173-4286-920b-09eb0f1c9816" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – re subscribe" src="https://github.com/user-attachments/assets/ca552d5f-3d17-436b-aba2-106d5dde8635" /></td>
+	</tr>
+	</table>
 
-- [ ] Offer/product previews: Buy Now / CTA → /checkout/...\
+- [ ] Offer/product previews: Buy Now / CTA → /checkout/...
 	Package, course, session, digital product, membership, and in-app package preview. Apple’s path was Offers → Packages; Preview still has a real checkout button.
-	 
-	Status: Done ✅\
 
-	***Sessions preview***\
-	Web view ⬇️
-	<img width="2880" height="1800" alt="session-preview-web" src="https://github.com/user-attachments/assets/486cb682-96d2-4a17-9509-bbd038ce7485" />
+	Status: Done ✅
 
-	iOS view &darr;
-	<img width="2880" height="1800" alt="session-preview-ios" src="https://github.com/user-attachments/assets/7b7946a7-12ee-4407-bccd-76075256176e" />
-	
-	***Offer preview***\
-	Web view ⬇️
-	<img width="2880" height="1800" alt="offer-preview-web" src="https://github.com/user-attachments/assets/8484f045-6c56-4027-85ac-aec92264bcc1" />
+	**Sessions preview**
 
-	iOS view &darr;
-	<img width="2880" height="1800" alt="offer-preview-ios" src="https://github.com/user-attachments/assets/4662ae0e-dc12-439f-bb2f-c68c776418cd" />\
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – session preview" src="https://github.com/user-attachments/assets/486cb682-96d2-4a17-9509-bbd038ce7485" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – session preview" src="https://github.com/user-attachments/assets/7b7946a7-12ee-4407-bccd-76075256176e" /></td>
+	</tr>
+	</table>
+
+	**Offer preview**
+
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – offer preview" src="https://github.com/user-attachments/assets/8484f045-6c56-4027-85ac-aec92264bcc1" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – offer preview" src="https://github.com/user-attachments/assets/4662ae0e-dc12-439f-bb2f-c68c776418cd" /></td>
+	</tr>
+	</table>
+
 	Package, course, digital product, and membership previews use the same price card + button pattern.
 
-
-- [ ] Purchases empty states: Browse Store\
+- [ ] Purchases empty states: Browse Store
 	Still shown on iOS and points at the store.
-	 
-	 Status: Done ✅\
-	 Browse Store is hidden on iOS in all three purchases empty states. Web is unchanged.
 
-	| Web View | iOS View |
-	| --- | --- |
-	| <img width="382" height="822" alt="image" src="https://github.com/user-attachments/assets/a8070e97-d6ae-4f53-a6a2-34cc85a31b6a" /> | <img width="380" height="814" alt="image" src="https://github.com/user-attachments/assets/1d1e2102-da36-4c0d-afce-33aa7d44d7f0" /> |
-	 | <img width="378" height="816" alt="image" src="https://github.com/user-attachments/assets/a5db4f23-585b-4110-b4b9-6fe1735d84e8" /> | <img width="381" height="821" alt="image" src="https://github.com/user-attachments/assets/6e5ced37-9b9b-4016-9448-35064e253c3d" /> |
-	 | <img width="381" height="816" alt="image" src="https://github.com/user-attachments/assets/14e6043a-b37f-4aaa-953a-94361cc7840c" /> | <img width="378" height="820" alt="image" src="https://github.com/user-attachments/assets/761fc49d-0031-4fb0-9204-4b2d7d3d6875" /> |
+	Status: Done ✅
+	Browse Store is hidden on iOS in all three purchases empty states. Web is unchanged.
 
-
-
-
-
+	<table>
+	<tr>
+	<th>Web View</th>
+	<th>iOS View</th>
+	</tr>
+	<tr>
+	<td><img width="240" alt="Web empty state 1" src="https://github.com/user-attachments/assets/a8070e97-d6ae-4f53-a6a2-34cc85a31b6a" /></td>
+	<td><img width="240" alt="iOS empty state 1" src="https://github.com/user-attachments/assets/1d1e2102-da36-4c0d-afce-33aa7d44d7f0" /></td>
+	</tr>
+	<tr>
+	<td><img width="240" alt="Web empty state 2" src="https://github.com/user-attachments/assets/a5db4f23-585b-4110-b4b9-6fe1735d84e8" /></td>
+	<td><img width="240" alt="iOS empty state 2" src="https://github.com/user-attachments/assets/6e5ced37-9b9b-4016-9448-35064e253c3d" /></td>
+	</tr>
+	<tr>
+	<td><img width="240" alt="Web empty state 3" src="https://github.com/user-attachments/assets/14e6043a-b37f-4aaa-953a-94361cc7840c" /></td>
+	<td><img width="240" alt="iOS empty state 3" src="https://github.com/user-attachments/assets/761fc49d-0031-4fb0-9204-4b2d7d3d6875" /></td>
+	</tr>
+	</table>
 
 ## Coach side commerce
 
 - [ ] LCH Store → Buy Now
 	Coaches can buy LCH digital products in the app. Plans is hidden on iOS; this sidebar item is not.
-	 
-	 Status: Done ✅
-	 | View | Image |
-	 | --- | --- |
-	 | Web | <img width="1728" height="766" alt="lch-store-web-section" src="https://github.com/user-attachments/assets/f0bd7b13-82ee-4267-9b48-31cc30650de4" /> |
-	 | iOS | <img width="1728" height="726" alt="lch-store-ios-section" src="https://github.com/user-attachments/assets/dd1109bd-0d15-4c33-bde3-f5e5188f2485" /> |
+
+	Status: Done ✅
+
+	<table>
+	<tr>
+	<th>View</th>
+	<th>Screenshot</th>
+	</tr>
+	<tr>
+	<td>Web</td>
+	<td><img width="700" alt="Web – LCH Store" src="https://github.com/user-attachments/assets/f0bd7b13-82ee-4267-9b48-31cc30650de4" /></td>
+	</tr>
+	<tr>
+	<td>iOS</td>
+	<td><img width="700" alt="iOS – LCH Store" src="https://github.com/user-attachments/assets/dd1109bd-0d15-4c33-bde3-f5e5188f2485" /></td>
+	</tr>
+	</table>
 
 - [ ] My Store Link
 	Public store URL
-	 
-	 Status: Done ✅
-	| Web View | iOS View |
-	| --- | --- |
-	| <img width="392" height="848" alt="image" src="https://github.com/user-attachments/assets/957cdebc-61d9-4520-ac0e-add2a467e067" /> | <img width="392" height="847" alt="image" src="https://github.com/user-attachments/assets/ceb1a8ee-8600-4183-b425-b285300343e6" /> |
 
+	Status: Done ✅
 
-	Launchpad -> Share Your Public Store Link -> remove this text “Clients will complete purchases outside the app.”
-	 Status: Done ✅
-	| Web View | iOS View |
-	| --- | --- |
-	| <img width="388" height="845" alt="image" src="https://github.com/user-attachments/assets/95d78507-c53b-4e39-be9d-ef9ede733f6f" /> | <img width="394" height="841" alt="image" src="https://github.com/user-attachments/assets/bebaf0e3-f7ca-43bb-af0f-6b7aa9178b0c" /> |
+	<table>
+	<tr>
+	<th>Web View</th>
+	<th>iOS View</th>
+	</tr>
+	<tr>
+	<td><img width="240" alt="Web – My Store Link" src="https://github.com/user-attachments/assets/957cdebc-61d9-4520-ac0e-add2a467e067" /></td>
+	<td><img width="240" alt="iOS – My Store Link" src="https://github.com/user-attachments/assets/ceb1a8ee-8600-4183-b425-b285300343e6" /></td>
+	</tr>
+	</table>
 
+	Launchpad → Share Your Public Store Link → remove this text “Clients will complete purchases outside the app.”
+
+	Status: Done ✅
+
+	<table>
+	<tr>
+	<th>Web View</th>
+	<th>iOS View</th>
+	</tr>
+	<tr>
+	<td><img width="240" alt="Web – Launchpad store link" src="https://github.com/user-attachments/assets/95d78507-c53b-4e39-be9d-ef9ede733f6f" /></td>
+	<td><img width="240" alt="iOS – Launchpad store link" src="https://github.com/user-attachments/assets/bebaf0e3-f7ca-43bb-af0f-6b7aa9178b0c" /></td>
+	</tr>
+	</table>
