@@ -158,9 +158,24 @@
 - [ ] LCH Store → Buy Now
 	Coaches can buy LCH digital products in the app. Plans is hidden on iOS; this sidebar item is not.
 	 
-	 Status:
+	 Status: Done ✅
+	 | View | Image |
+	 | --- | --- |
+	 | Web | <img width="1728" height="766" alt="lch-store-web-section" src="https://github.com/user-attachments/assets/f0bd7b13-82ee-4267-9b48-31cc30650de4" /> |
+	 | iOS | <img width="1728" height="726" alt="lch-store-ios-section" src="https://github.com/user-attachments/assets/dd1109bd-0d15-4c33-bde3-f5e5188f2485" /> |
 
 - [ ] My Store Link
-	Public store URL plus “Clients will complete purchases outside the app.”
+	Public store URL
 	 
-	 Status:
+	 Status: Done ✅
+	| Web View | iOS View |
+	| --- | --- |
+	| <img width="392" height="848" alt="image" src="https://github.com/user-attachments/assets/957cdebc-61d9-4520-ac0e-add2a467e067" /> | <img width="392" height="847" alt="image" src="https://github.com/user-attachments/assets/ceb1a8ee-8600-4183-b425-b285300343e6" /> |
+
+
+	Launchpad -> Share Your Public Store Link -> remove this text “Clients will complete purchases outside the app.”
+	 Status: Done ✅
+	| Web View | iOS View |
+	| --- | --- |
+	| <img width="388" height="845" alt="image" src="https://github.com/user-attachments/assets/95d78507-c53b-4e39-be9d-ef9ede733f6f" /> | <img width="394" height="841" alt="image" src="https://github.com/user-attachments/assets/bebaf0e3-f7ca-43bb-af0f-6b7aa9178b0c" /> |
+
